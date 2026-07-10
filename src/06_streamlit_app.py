@@ -1,3 +1,5 @@
+import os
+
 import streamlit as st
 import pandas as pd
 import joblib
@@ -6,9 +8,13 @@ st.set_page_config(page_title="Sleep Quality Predictor", page_icon="😴", layou
 
 @st.cache_resource
 def load_artifacts():
-    model = joblib.load("sleep_quality_model.pkl")
-    target_encoder = joblib.load("target_label_encoder.pkl")
-    columns = joblib.load("feature_columns.pkl")
+
+    BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    MODEL_DIR = os.path.join(BASE_DIR, "models")
+    
+    model = joblib.load(os.path.join(MODEL_DIR, "sleep_quality_model.pkl"))
+    target_encoder = joblib.load(os.path.join(MODEL_DIR, "target_label_encoder.pkl"))
+    columns = joblib.load(os.path.join(MODEL_DIR, "feature_columns.pkl"))
     return model, target_encoder, columns
 
 model, target_encoder, columns = load_artifacts()

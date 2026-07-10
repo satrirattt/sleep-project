@@ -12,7 +12,7 @@ import re
 # ==========================================
 # 1) THAI SURVEY DATA
 # ==========================================
-df = pd.read_excel("survey_data.xlsx")
+df = pd.read_excel("../data/survey_data.xlsx")
 
 df.columns = [
     "timestamp",
