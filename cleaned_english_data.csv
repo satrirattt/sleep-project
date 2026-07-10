@@ -1,0 +1,1096 @@
+age,sleep_hours,feel_rested,daily_screen_time,use_before_sleep,stress_level,anxiety/low_mood,wellness_apps,sleep_quality,screen_time_affects_sleep?
+47,4,yes,11,yes,10,no,no,bad,yes
+48,4,no,8,no,7,yes,yes,bad,yes
+40,7,sometimes,10,no,4,no,yes,bad,yes
+26,10,yes,5,yes,1,yes,no,good,no
+47,5,yes,7,yes,7,yes,no,good,yes
+51,6,no,8,yes,7,no,no,good,not sure
+20,9,sometimes,3,no,1,no,no,good,no
+21,5,yes,9,no,7,no,no,bad,no
+40,8,no,5,yes,4,yes,no,good,no
+17,6,sometimes,9,yes,6,yes,no,good,not sure
+34,4,sometimes,12,no,9,yes,no,bad,yes
+52,6,no,9,no,6,no,no,bad,yes
+29,7,no,7,yes,4,no,no,good,yes
+39,8,yes,6,no,6,yes,no,good,no
+44,4,yes,11,no,8,yes,no,bad,yes
+17,9,no,5,no,4,no,yes,good,no
+47,4,sometimes,11,no,7,no,yes,bad,yes
+40,8,yes,4,no,5,no,yes,good,no
+25,9,yes,6,no,5,no,no,good,no
+15,10,no,2,no,5,no,no,good,no
+21,8,no,4,no,1,yes,yes,good,no
+53,10,sometimes,4,no,2,yes,no,good,no
+33,6,yes,9,yes,5,no,no,good,no
+54,9,yes,4,no,2,no,no,good,no
+47,5,sometimes,8,yes,7,no,no,good,no
+50,8,yes,3,no,5,no,yes,good,no
+54,8,no,3,no,6,no,no,good,no
+37,10,no,6,yes,4,yes,yes,good,no
+22,9,no,6,no,1,yes,yes,good,no
+48,6,sometimes,10,yes,6,yes,no,good,yes
+54,8,sometimes,6,no,2,no,yes,good,no
+19,7,yes,10,no,4,no,no,good,no
+39,9,yes,2,no,1,no,no,good,no
+26,7,no,9,yes,6,no,no,good,not sure
+54,8,sometimes,5,yes,3,yes,yes,good,no
+32,8,yes,3,no,5,yes,no,good,no
+24,9,sometimes,2,yes,6,no,no,good,no
+28,10,no,5,yes,4,no,yes,good,no
+24,9,yes,4,yes,3,yes,no,good,no
+43,7,sometimes,9,yes,6,yes,no,good,yes
+52,6,sometimes,8,no,3,yes,no,bad,not sure
+21,4,yes,8,no,9,no,yes,bad,yes
+23,6,sometimes,10,yes,4,no,no,good,yes
+48,8,yes,6,no,6,no,yes,good,no
+46,6,no,7,no,7,yes,no,good,not sure
+19,8,yes,3,yes,2,no,yes,good,no
+37,6,yes,8,no,3,yes,yes,good,not sure
+47,5,sometimes,9,yes,7,no,yes,good,yes
+25,7,no,6,no,5,yes,yes,bad,no
+39,8,no,4,yes,3,no,yes,good,no
+33,6,no,8,no,6,no,no,good,yes
+21,5,yes,6,no,6,yes,no,bad,no
+20,9,sometimes,5,no,1,yes,yes,good,no
+46,10,sometimes,3,yes,6,no,yes,good,no
+51,8,no,5,yes,4,yes,no,good,no
+54,6,sometimes,7,no,5,no,yes,bad,no
+19,7,no,7,yes,3,no,yes,good,not sure
+29,9,no,6,no,6,no,no,good,no
+50,6,no,7,yes,6,yes,yes,good,no
+51,5,yes,7,yes,8,yes,no,bad,yes
+20,4,sometimes,7,no,7,no,no,bad,yes
+20,7,yes,9,no,4,yes,no,good,not sure
+43,4,yes,10,yes,10,no,no,bad,yes
+22,6,sometimes,5,yes,7,yes,yes,bad,not sure
+28,9,sometimes,4,no,4,no,no,good,no
+49,7,yes,10,yes,6,no,yes,bad,not sure
+53,4,sometimes,9,yes,8,no,no,bad,yes
+41,10,sometimes,5,yes,5,yes,yes,good,no
+29,6,sometimes,8,yes,7,yes,yes,bad,no
+35,4,yes,12,yes,8,no,no,bad,yes
+21,7,sometimes,6,yes,5,yes,no,good,no
+44,8,sometimes,2,no,1,yes,yes,good,no
+27,4,no,9,yes,8,no,yes,bad,yes
+26,4,no,12,yes,10,no,yes,bad,yes
+31,5,sometimes,8,yes,8,yes,no,bad,not sure
+31,6,no,7,yes,8,yes,no,good,not sure
+41,6,yes,6,no,6,no,yes,good,yes
+52,6,no,9,no,8,no,no,bad,yes
+28,8,sometimes,6,no,2,no,no,good,no
+17,7,yes,6,no,3,yes,no,good,yes
+17,10,no,3,yes,2,no,yes,good,no
+24,5,yes,8,yes,3,yes,yes,bad,yes
+31,6,yes,9,yes,3,no,no,good,yes
+49,7,yes,10,yes,8,no,no,bad,yes
+18,10,sometimes,2,yes,4,yes,yes,good,no
+33,9,no,6,no,3,no,yes,good,no
+39,7,sometimes,6,no,3,yes,yes,good,no
+51,10,no,2,yes,1,no,no,good,no
+19,10,sometimes,5,no,5,no,yes,good,no
+19,9,no,6,yes,3,yes,yes,good,no
+54,4,yes,12,no,9,no,yes,bad,yes
+44,5,sometimes,6,yes,3,yes,no,good,not sure
+18,10,no,2,yes,5,yes,no,good,no
+36,8,sometimes,2,no,3,yes,no,good,no
+41,6,no,9,yes,3,yes,yes,good,no
+52,6,no,10,yes,4,no,no,bad,yes
+53,4,yes,11,yes,10,yes,no,bad,yes
+34,10,no,3,yes,1,yes,yes,good,no
+34,5,sometimes,9,no,5,yes,no,good,yes
+17,5,sometimes,7,yes,4,no,yes,bad,no
+16,4,yes,12,no,8,yes,no,bad,yes
+34,8,sometimes,3,no,5,no,no,good,no
+31,5,yes,8,yes,5,yes,no,bad,not sure
+34,8,no,2,yes,4,no,no,good,no
+19,9,sometimes,5,yes,6,no,no,good,no
+20,4,sometimes,12,no,9,no,yes,bad,yes
+32,9,sometimes,4,no,5,yes,yes,good,no
+35,10,sometimes,6,yes,1,no,no,good,no
+21,6,no,7,yes,5,yes,no,bad,not sure
+18,9,no,3,yes,6,yes,yes,good,no
+26,6,no,8,yes,8,yes,yes,bad,not sure
+54,8,sometimes,4,no,5,no,no,good,no
+29,7,yes,9,yes,8,no,no,bad,not sure
+30,5,no,8,yes,7,yes,no,good,yes
+47,10,sometimes,2,yes,4,no,no,good,no
+47,10,sometimes,2,yes,3,no,no,good,no
+43,9,yes,5,yes,2,yes,no,good,no
+33,10,yes,5,no,3,no,yes,good,no
+53,8,sometimes,2,yes,4,no,no,good,no
+54,7,no,5,yes,8,no,no,good,no
+24,9,sometimes,3,no,2,yes,yes,good,no
+36,5,yes,8,yes,4,no,no,bad,not sure
+21,5,sometimes,9,yes,5,yes,no,good,no
+48,6,yes,6,yes,6,no,no,bad,not sure
+35,8,yes,3,no,5,no,yes,good,no
+45,8,sometimes,2,yes,6,no,no,good,no
+36,8,sometimes,3,no,5,no,yes,good,no
+37,6,no,6,yes,3,no,yes,good,yes
+16,5,yes,5,yes,3,no,yes,bad,yes
+43,4,sometimes,11,no,7,no,no,bad,yes
+35,8,yes,6,yes,6,yes,no,good,no
+30,4,sometimes,7,no,10,yes,yes,bad,yes
+24,8,yes,4,no,4,no,no,good,no
+53,7,sometimes,8,no,6,yes,yes,bad,yes
+36,4,yes,12,no,8,no,no,bad,yes
+25,9,no,5,no,1,yes,no,good,no
+43,6,yes,7,yes,7,no,yes,bad,no
+48,6,yes,8,yes,3,no,no,bad,no
+39,4,sometimes,11,no,8,yes,no,bad,yes
+20,4,no,8,no,7,no,yes,bad,yes
+33,9,no,5,no,3,yes,no,good,no
+22,8,yes,4,yes,1,yes,yes,good,no
+39,7,yes,10,yes,4,yes,no,good,no
+31,10,sometimes,5,yes,3,no,no,good,no
+41,10,yes,5,yes,5,no,no,good,no
+48,9,sometimes,3,no,3,no,no,good,no
+18,4,yes,10,yes,8,no,no,bad,yes
+49,6,no,5,no,5,yes,no,good,not sure
+46,5,no,9,yes,6,no,yes,bad,no
+32,5,yes,6,no,8,yes,no,bad,not sure
+44,7,no,8,no,3,no,no,good,yes
+41,9,no,4,yes,5,no,no,good,no
+35,5,yes,9,yes,8,yes,no,bad,no
+20,7,sometimes,10,yes,3,no,no,bad,not sure
+50,5,sometimes,6,yes,5,yes,no,bad,not sure
+44,10,no,6,yes,5,yes,yes,good,no
+37,9,yes,3,yes,3,yes,no,good,no
+20,6,yes,7,no,8,yes,no,bad,not sure
+50,6,no,9,no,8,yes,yes,good,not sure
+16,4,no,7,no,10,no,yes,bad,yes
+20,7,yes,9,no,5,no,yes,bad,no
+42,7,sometimes,6,no,7,yes,no,good,no
+21,4,no,9,yes,8,yes,yes,bad,yes
+15,8,sometimes,3,no,4,no,no,good,no
+33,10,no,6,no,5,yes,yes,good,no
+47,4,no,8,no,10,no,yes,bad,yes
+25,5,sometimes,5,no,5,yes,yes,bad,yes
+52,6,yes,6,yes,7,no,no,bad,no
+19,5,yes,6,yes,8,yes,yes,good,no
+41,5,sometimes,6,no,5,yes,yes,good,not sure
+27,9,sometimes,4,yes,3,yes,yes,good,no
+51,9,yes,4,no,3,yes,no,good,no
+31,7,sometimes,7,yes,6,no,no,bad,yes
+51,9,yes,4,yes,4,yes,no,good,no
+49,9,yes,6,yes,1,no,yes,good,no
+35,7,yes,10,no,4,yes,no,good,not sure
+50,8,sometimes,4,no,4,yes,no,good,no
+49,5,sometimes,8,yes,7,no,yes,good,no
+39,8,sometimes,2,no,2,yes,yes,good,no
+23,7,sometimes,6,yes,4,yes,yes,bad,yes
+21,9,no,4,no,2,yes,yes,good,no
+53,7,sometimes,7,yes,6,yes,yes,bad,not sure
+43,8,yes,4,yes,4,yes,no,good,no
+17,7,no,7,no,4,no,no,good,no
+42,7,yes,5,no,6,no,no,good,yes
+26,4,no,9,yes,10,no,no,bad,yes
+17,6,sometimes,7,no,8,yes,yes,bad,not sure
+20,6,sometimes,6,yes,4,yes,no,good,not sure
+26,5,no,9,yes,7,yes,yes,bad,no
+33,6,yes,10,yes,3,yes,yes,good,no
+18,7,sometimes,9,no,4,yes,no,bad,not sure
+22,5,yes,7,yes,4,no,no,good,yes
+27,5,no,9,yes,7,yes,no,bad,no
+15,4,sometimes,7,no,9,no,yes,bad,yes
+19,4,yes,7,yes,9,no,yes,bad,yes
+54,7,yes,6,yes,3,yes,no,bad,not sure
+31,8,yes,3,yes,1,yes,yes,good,no
+42,6,no,5,yes,5,yes,no,bad,yes
+16,10,no,2,yes,1,yes,yes,good,no
+55,4,no,8,no,10,yes,yes,bad,yes
+21,7,yes,5,yes,7,no,yes,bad,yes
+38,4,sometimes,7,yes,7,yes,yes,bad,yes
+20,4,no,12,yes,9,yes,yes,bad,yes
+39,4,yes,8,yes,7,no,yes,bad,yes
+31,7,sometimes,8,no,3,yes,yes,good,no
+52,6,yes,8,yes,8,yes,yes,bad,not sure
+26,5,sometimes,5,yes,6,yes,no,good,yes
+54,10,no,2,yes,3,no,yes,good,no
+18,9,yes,3,no,6,yes,yes,good,no
+22,9,no,6,yes,4,no,yes,good,no
+47,10,sometimes,6,no,4,no,yes,good,no
+36,9,no,5,no,2,no,yes,good,no
+55,7,no,10,yes,3,no,no,good,no
+29,9,sometimes,2,no,4,yes,yes,good,no
+18,9,sometimes,4,no,6,yes,yes,good,no
+55,9,yes,6,yes,2,yes,yes,good,no
+26,10,sometimes,4,no,3,no,yes,good,no
+19,7,no,8,no,4,no,no,bad,not sure
+46,7,no,8,no,7,no,no,bad,not sure
+23,4,no,12,no,9,no,yes,bad,yes
+42,7,sometimes,5,no,8,yes,no,bad,no
+38,6,no,7,yes,6,no,yes,good,not sure
+34,9,sometimes,2,yes,6,yes,no,good,no
+33,8,sometimes,4,yes,2,no,no,good,no
+18,4,no,12,no,8,no,no,bad,yes
+36,5,sometimes,9,no,5,no,yes,bad,no
+20,10,yes,5,yes,1,no,yes,good,no
+18,7,sometimes,10,yes,4,yes,no,bad,no
+44,4,sometimes,9,no,9,yes,no,bad,yes
+20,5,yes,8,yes,6,yes,yes,good,no
+51,7,yes,6,yes,6,yes,yes,bad,not sure
+39,10,yes,3,yes,2,no,no,good,no
+17,10,no,2,no,5,yes,no,good,no
+46,5,sometimes,7,yes,6,no,yes,good,yes
+17,8,no,4,yes,3,no,no,good,no
+32,5,sometimes,9,yes,5,yes,no,good,yes
+26,5,yes,10,no,8,no,no,bad,no
+42,8,yes,4,yes,2,yes,no,good,no
+15,9,sometimes,2,yes,4,yes,no,good,no
+38,5,sometimes,7,yes,4,no,yes,bad,yes
+51,9,sometimes,5,no,3,no,no,good,no
+54,7,no,10,no,7,yes,no,bad,yes
+55,7,no,8,no,8,no,yes,good,not sure
+54,9,yes,4,no,1,yes,no,good,no
+25,8,sometimes,4,no,4,yes,yes,good,no
+16,7,yes,5,yes,7,yes,no,bad,yes
+17,4,yes,11,no,7,no,yes,bad,yes
+46,4,no,9,yes,7,no,yes,bad,yes
+18,8,sometimes,6,yes,2,no,no,good,no
+23,5,yes,7,yes,4,yes,no,good,yes
+24,9,sometimes,4,yes,3,yes,yes,good,no
+19,5,yes,7,no,8,no,no,bad,not sure
+41,4,no,8,no,10,no,no,bad,yes
+52,7,yes,10,no,7,no,yes,bad,no
+28,5,sometimes,7,no,8,yes,no,good,no
+35,7,sometimes,8,no,7,yes,yes,good,not sure
+47,4,no,11,yes,7,no,no,bad,yes
+44,5,sometimes,5,no,5,yes,yes,bad,not sure
+41,10,yes,2,no,2,no,yes,good,no
+16,5,yes,7,yes,4,no,no,bad,not sure
+33,6,sometimes,8,no,8,no,yes,bad,not sure
+22,4,sometimes,9,no,7,no,yes,bad,yes
+49,5,no,5,no,5,no,yes,bad,not sure
+34,10,sometimes,4,yes,3,no,no,good,no
+32,9,no,5,yes,4,yes,yes,good,no
+33,7,no,7,no,4,yes,no,bad,no
+24,10,sometimes,6,yes,4,yes,yes,good,no
+16,5,sometimes,10,no,4,no,no,good,no
+35,10,yes,6,yes,5,no,no,good,no
+40,7,sometimes,10,no,4,no,no,good,not sure
+25,5,yes,10,yes,6,yes,no,bad,yes
+17,5,yes,5,yes,3,no,yes,bad,yes
+47,9,sometimes,5,yes,5,no,no,good,no
+23,6,no,8,yes,5,yes,yes,good,no
+35,9,no,6,no,5,no,no,good,no
+23,9,no,5,yes,6,no,yes,good,no
+28,7,yes,8,yes,7,no,no,good,yes
+34,4,sometimes,9,yes,8,yes,yes,bad,yes
+41,10,sometimes,2,yes,5,no,no,good,no
+31,7,no,7,yes,8,no,no,good,no
+23,5,yes,10,yes,5,yes,no,bad,no
+20,4,yes,8,yes,8,yes,yes,bad,yes
+51,7,sometimes,8,yes,4,no,no,bad,yes
+50,4,no,12,yes,9,yes,yes,bad,yes
+36,5,yes,8,yes,8,yes,no,bad,yes
+41,10,no,5,yes,4,no,no,good,no
+19,7,sometimes,7,no,8,no,yes,good,not sure
+54,8,yes,6,yes,5,no,yes,good,no
+23,9,sometimes,3,no,2,yes,no,good,no
+39,5,no,10,no,4,yes,no,good,not sure
+40,7,no,9,yes,4,no,no,good,not sure
+20,5,sometimes,10,yes,4,no,no,good,no
+30,5,sometimes,10,yes,4,yes,yes,bad,no
+38,7,yes,7,no,3,yes,no,good,not sure
+46,6,sometimes,7,no,8,no,yes,bad,not sure
+44,8,no,6,yes,6,no,no,good,no
+49,8,yes,2,no,3,no,no,good,no
+45,8,sometimes,5,yes,5,no,yes,good,no
+36,8,no,2,yes,5,yes,no,good,no
+22,4,sometimes,7,yes,9,no,yes,bad,yes
+52,7,sometimes,5,no,3,no,yes,good,yes
+54,10,yes,3,no,5,no,no,good,no
+24,4,yes,9,no,8,yes,no,bad,yes
+31,5,sometimes,5,yes,8,no,no,bad,no
+41,6,yes,7,no,4,yes,no,good,yes
+36,7,no,7,yes,7,no,no,good,no
+36,4,yes,10,no,8,yes,yes,bad,yes
+34,10,sometimes,4,no,1,yes,no,good,no
+48,6,no,7,yes,5,no,no,bad,no
+44,10,no,4,yes,6,no,yes,good,no
+40,9,sometimes,3,no,5,no,yes,good,no
+30,9,yes,4,yes,3,yes,yes,good,no
+18,5,yes,5,yes,4,no,no,bad,not sure
+51,4,sometimes,10,no,8,yes,no,bad,yes
+37,6,yes,7,yes,4,yes,yes,bad,no
+41,4,no,9,yes,7,no,yes,bad,yes
+15,8,no,2,yes,2,no,yes,good,no
+37,9,sometimes,2,yes,1,yes,no,good,no
+40,9,yes,4,yes,6,no,yes,good,no
+20,6,no,5,no,7,no,no,bad,no
+41,7,no,5,no,7,yes,yes,good,no
+29,7,no,9,yes,3,no,yes,bad,no
+38,4,sometimes,11,yes,9,no,yes,bad,yes
+20,4,no,10,no,9,no,no,bad,yes
+20,6,sometimes,8,yes,8,yes,no,good,no
+30,10,no,3,yes,2,yes,yes,good,no
+21,4,no,12,no,8,yes,no,bad,yes
+52,5,no,10,no,6,no,no,good,yes
+46,10,yes,4,no,2,yes,yes,good,no
+19,5,sometimes,7,yes,3,yes,no,bad,not sure
+53,5,no,5,no,5,no,yes,bad,no
+16,4,sometimes,12,no,7,yes,no,bad,yes
+38,7,sometimes,7,no,3,no,no,bad,not sure
+53,5,sometimes,5,no,8,no,yes,good,no
+50,5,no,8,no,7,yes,yes,good,no
+35,7,no,7,yes,3,yes,no,good,no
+47,4,no,9,no,8,yes,yes,bad,yes
+45,8,no,6,yes,2,yes,no,good,no
+41,5,yes,7,no,7,yes,yes,bad,not sure
+44,6,yes,8,no,8,no,yes,good,yes
+38,4,yes,11,yes,10,yes,yes,bad,yes
+39,8,no,3,yes,4,no,no,good,no
+22,4,no,7,yes,8,yes,no,bad,yes
+15,5,sometimes,9,yes,7,yes,yes,good,not sure
+18,8,no,5,no,3,no,no,good,no
+38,6,yes,9,no,6,yes,yes,good,not sure
+51,6,sometimes,5,yes,3,yes,no,bad,yes
+52,10,sometimes,6,yes,2,yes,yes,good,no
+28,9,sometimes,2,no,4,no,no,good,no
+15,9,no,3,no,5,yes,yes,good,no
+55,9,sometimes,5,yes,6,no,no,good,no
+38,5,no,6,yes,7,no,yes,bad,not sure
+39,5,yes,10,no,8,no,yes,good,yes
+40,7,sometimes,10,no,7,yes,no,good,not sure
+42,4,yes,11,no,10,no,no,bad,yes
+46,5,sometimes,5,no,5,no,no,bad,yes
+52,7,sometimes,9,yes,6,yes,no,good,no
+17,5,sometimes,10,no,4,yes,no,good,yes
+49,10,sometimes,2,no,2,no,yes,good,no
+50,10,sometimes,6,yes,4,yes,yes,good,no
+21,7,yes,6,yes,6,yes,yes,good,yes
+50,4,sometimes,7,yes,9,yes,no,bad,yes
+34,9,sometimes,6,yes,5,no,no,good,no
+21,8,no,2,no,1,yes,yes,good,no
+27,8,sometimes,3,no,6,no,no,good,no
+38,4,sometimes,9,yes,10,no,yes,bad,yes
+28,8,yes,5,yes,2,yes,no,good,no
+24,7,no,10,yes,3,yes,yes,bad,not sure
+32,6,sometimes,9,no,4,yes,yes,bad,not sure
+47,8,no,6,yes,3,no,yes,good,no
+19,4,sometimes,12,yes,9,no,no,bad,yes
+37,6,no,5,yes,7,yes,no,good,not sure
+34,8,yes,5,yes,1,no,yes,good,no
+29,9,yes,2,no,3,yes,no,good,no
+15,8,yes,3,yes,4,no,yes,good,no
+18,8,yes,4,yes,3,yes,no,good,no
+40,4,no,9,no,9,no,yes,bad,yes
+47,10,sometimes,6,yes,2,yes,no,good,no
+51,9,no,5,no,6,no,no,good,no
+43,4,sometimes,11,yes,7,no,yes,bad,yes
+32,8,yes,3,yes,1,no,no,good,no
+50,10,sometimes,6,yes,6,yes,no,good,no
+36,8,yes,4,yes,5,no,no,good,no
+28,6,no,7,yes,4,yes,yes,bad,yes
+42,9,yes,6,yes,3,yes,no,good,no
+46,8,yes,4,no,3,no,no,good,no
+20,7,sometimes,8,yes,4,yes,yes,bad,no
+15,6,no,7,no,5,yes,yes,good,no
+49,8,sometimes,6,no,6,yes,yes,good,no
+28,4,yes,8,yes,10,no,no,bad,yes
+25,6,no,8,yes,3,yes,yes,bad,no
+43,7,no,5,no,7,no,yes,good,yes
+24,10,no,2,no,4,no,no,good,no
+37,6,sometimes,10,no,6,yes,no,bad,yes
+30,9,no,5,no,1,yes,no,good,no
+28,5,sometimes,5,no,6,yes,yes,bad,no
+21,5,no,5,yes,6,no,yes,good,not sure
+52,8,no,6,no,6,no,no,good,no
+30,9,sometimes,6,no,3,no,yes,good,no
+36,9,yes,4,no,4,yes,yes,good,no
+53,10,yes,4,no,5,yes,no,good,no
+37,6,sometimes,5,yes,8,no,no,good,yes
+35,4,no,8,no,8,no,yes,bad,yes
+46,8,sometimes,4,yes,6,no,yes,good,no
+21,6,yes,8,no,8,yes,no,bad,yes
+16,5,no,5,yes,4,no,yes,good,yes
+38,8,yes,2,no,2,no,no,good,no
+26,10,yes,4,no,3,no,no,good,no
+22,4,no,9,yes,8,yes,no,bad,yes
+16,7,no,8,yes,3,no,no,bad,no
+37,8,sometimes,3,yes,3,yes,yes,good,no
+52,4,no,9,yes,8,yes,no,bad,yes
+44,6,no,5,no,5,no,yes,good,not sure
+52,10,no,6,yes,3,yes,yes,good,no
+46,6,no,9,no,3,yes,yes,bad,yes
+48,7,yes,7,yes,3,no,no,good,yes
+30,8,sometimes,4,yes,2,no,yes,good,no
+42,4,no,8,no,10,yes,yes,bad,yes
+25,9,no,3,no,6,yes,yes,good,no
+24,6,sometimes,7,yes,3,yes,yes,good,not sure
+54,4,yes,12,no,9,no,no,bad,yes
+25,4,yes,11,yes,7,yes,yes,bad,yes
+42,7,sometimes,5,no,6,yes,yes,bad,yes
+51,9,no,3,no,2,yes,no,good,no
+25,10,sometimes,6,yes,4,yes,no,good,no
+25,7,no,10,no,8,no,no,good,not sure
+31,10,no,2,yes,2,yes,no,good,no
+23,4,no,9,yes,8,yes,no,bad,yes
+15,7,yes,7,no,6,yes,yes,bad,not sure
+54,10,no,3,yes,1,no,yes,good,no
+15,10,yes,4,yes,4,yes,yes,good,no
+42,7,sometimes,7,no,6,yes,no,good,yes
+19,6,no,8,yes,3,yes,yes,bad,yes
+25,9,no,3,no,6,no,no,good,no
+41,6,sometimes,10,yes,7,yes,yes,bad,not sure
+17,9,yes,2,yes,2,yes,no,good,no
+47,9,sometimes,4,yes,5,yes,no,good,no
+26,10,no,2,yes,5,yes,no,good,no
+39,5,yes,9,yes,7,yes,no,bad,yes
+24,10,sometimes,5,no,5,no,yes,good,no
+20,10,no,6,no,6,yes,yes,good,no
+49,6,no,6,yes,5,yes,no,bad,yes
+19,5,yes,9,no,7,yes,no,good,yes
+45,5,no,6,yes,7,no,no,bad,no
+28,6,no,5,no,4,no,yes,good,no
+53,4,no,8,no,9,no,yes,bad,yes
+42,7,yes,10,yes,8,yes,no,good,yes
+15,7,no,8,yes,4,yes,yes,bad,yes
+43,8,sometimes,5,no,4,yes,no,good,no
+28,5,sometimes,10,no,3,no,no,good,yes
+45,4,yes,8,yes,7,no,yes,bad,yes
+30,5,sometimes,10,no,5,no,no,good,no
+43,7,yes,10,yes,6,yes,no,bad,no
+29,9,yes,6,no,5,no,yes,good,no
+30,10,sometimes,5,no,5,yes,yes,good,no
+38,4,sometimes,9,no,8,yes,no,bad,yes
+23,4,no,9,no,7,yes,no,bad,yes
+52,5,no,5,no,6,no,yes,bad,yes
+41,8,no,6,no,6,no,yes,good,no
+39,6,sometimes,9,yes,7,no,no,bad,not sure
+21,7,no,9,no,6,yes,no,bad,no
+52,9,yes,6,no,4,yes,yes,good,no
+40,8,yes,6,yes,2,no,yes,good,no
+49,9,sometimes,6,yes,2,yes,yes,good,no
+16,4,sometimes,7,yes,10,yes,no,bad,yes
+21,10,yes,4,yes,3,yes,yes,good,no
+37,5,sometimes,7,no,7,no,no,bad,not sure
+29,7,sometimes,9,no,6,no,no,good,yes
+23,5,no,9,no,5,no,no,good,no
+41,7,yes,7,no,7,yes,yes,bad,not sure
+51,7,yes,8,no,6,yes,yes,bad,not sure
+49,6,no,7,yes,7,no,yes,good,no
+46,5,yes,8,yes,4,no,no,bad,yes
+43,8,no,2,no,3,yes,yes,good,no
+16,4,sometimes,11,no,8,yes,yes,bad,yes
+23,10,no,2,no,5,yes,no,good,no
+36,4,yes,12,no,9,yes,yes,bad,yes
+51,9,no,6,no,2,yes,no,good,no
+16,7,no,6,yes,4,yes,yes,good,not sure
+44,9,no,6,no,6,no,no,good,no
+22,7,yes,6,yes,6,no,yes,bad,not sure
+41,4,sometimes,9,yes,7,no,no,bad,yes
+30,4,yes,7,yes,7,no,yes,bad,yes
+29,7,sometimes,6,yes,4,no,no,good,yes
+19,5,yes,9,no,8,no,yes,good,yes
+19,8,sometimes,2,yes,1,yes,no,good,no
+51,7,no,8,yes,8,no,no,good,yes
+35,8,yes,4,no,6,yes,no,good,no
+46,4,yes,10,yes,7,no,yes,bad,yes
+24,9,sometimes,4,yes,4,yes,yes,good,no
+32,9,no,2,yes,6,no,no,good,no
+26,9,yes,4,no,3,yes,yes,good,no
+44,9,sometimes,3,no,4,no,yes,good,no
+49,10,sometimes,6,yes,2,yes,no,good,no
+35,7,yes,10,no,4,yes,yes,bad,not sure
+46,6,no,5,no,6,yes,yes,bad,no
+28,4,no,12,yes,9,yes,no,bad,yes
+45,10,sometimes,2,no,3,no,no,good,no
+15,7,no,9,no,8,yes,yes,bad,not sure
+44,4,yes,11,yes,8,no,yes,bad,yes
+38,9,yes,4,yes,4,yes,no,good,no
+47,9,sometimes,2,no,6,yes,yes,good,no
+45,8,no,2,yes,2,yes,no,good,no
+24,9,no,5,no,6,yes,yes,good,no
+38,9,sometimes,3,yes,4,no,no,good,no
+51,10,yes,4,no,1,no,no,good,no
+39,8,yes,4,yes,5,yes,yes,good,no
+36,4,sometimes,10,yes,7,no,no,bad,yes
+33,4,sometimes,7,yes,8,yes,no,bad,yes
+16,7,sometimes,10,yes,5,no,yes,good,not sure
+22,7,no,7,yes,8,no,no,good,no
+33,8,sometimes,5,no,5,no,no,good,no
+17,7,no,6,no,6,yes,yes,good,not sure
+39,9,yes,3,yes,6,yes,no,good,no
+48,6,sometimes,10,no,3,yes,yes,good,not sure
+53,9,sometimes,4,no,6,yes,no,good,no
+35,5,sometimes,6,no,7,no,no,bad,yes
+37,6,sometimes,6,no,6,no,yes,bad,no
+37,6,sometimes,6,no,5,no,yes,good,no
+55,6,sometimes,7,yes,8,no,yes,bad,yes
+46,7,yes,6,no,5,no,no,good,yes
+51,10,no,5,no,1,no,yes,good,no
+55,9,sometimes,3,no,4,yes,yes,good,no
+54,7,no,6,no,4,yes,yes,good,no
+21,5,no,8,no,6,no,no,bad,not sure
+26,5,no,5,no,3,yes,no,good,not sure
+20,9,sometimes,2,yes,6,yes,yes,good,no
+24,9,sometimes,3,yes,4,yes,yes,good,no
+19,5,sometimes,5,yes,5,yes,no,good,not sure
+45,5,sometimes,9,no,5,no,yes,bad,not sure
+25,7,sometimes,5,no,4,yes,yes,bad,not sure
+42,4,sometimes,11,no,7,yes,yes,bad,yes
+53,5,no,7,no,6,yes,yes,good,yes
+40,7,sometimes,7,no,6,yes,yes,bad,yes
+42,7,yes,8,yes,8,yes,no,good,not sure
+34,5,sometimes,7,no,6,no,no,bad,no
+28,9,no,2,yes,4,yes,no,good,no
+54,9,no,5,no,1,no,no,good,no
+49,5,sometimes,10,no,8,yes,yes,bad,not sure
+16,5,no,7,yes,4,no,yes,bad,not sure
+24,9,no,3,yes,1,no,no,good,no
+30,4,sometimes,8,yes,9,yes,yes,bad,yes
+15,4,no,9,no,9,no,yes,bad,yes
+38,10,sometimes,4,yes,1,no,no,good,no
+49,5,no,5,no,4,no,yes,bad,yes
+46,6,yes,5,yes,7,yes,no,good,no
+29,6,sometimes,5,yes,3,yes,no,good,not sure
+34,6,no,6,yes,6,yes,no,bad,not sure
+43,9,no,3,no,6,yes,no,good,no
+36,9,sometimes,5,yes,4,no,yes,good,no
+39,6,yes,10,yes,6,yes,no,bad,yes
+36,6,yes,10,yes,7,no,yes,good,yes
+16,6,no,5,yes,5,no,no,good,not sure
+46,9,yes,5,yes,2,no,no,good,no
+28,5,no,5,no,6,yes,yes,good,yes
+22,6,yes,9,yes,7,no,no,bad,no
+29,9,no,4,yes,4,no,no,good,no
+27,8,yes,6,no,6,no,yes,good,no
+32,6,no,5,yes,4,yes,yes,good,yes
+43,10,yes,6,no,1,no,yes,good,no
+37,5,no,8,yes,8,no,no,bad,no
+41,4,yes,8,no,8,yes,no,bad,yes
+54,9,sometimes,3,yes,4,yes,no,good,no
+42,7,no,6,no,4,no,yes,bad,yes
+54,8,no,3,no,4,no,yes,good,no
+21,9,sometimes,6,no,2,yes,no,good,no
+15,6,yes,5,yes,7,no,no,good,not sure
+15,10,no,3,no,4,yes,no,good,no
+33,5,sometimes,7,yes,7,yes,yes,bad,not sure
+21,4,sometimes,8,no,7,yes,yes,bad,yes
+35,4,sometimes,7,no,10,yes,no,bad,yes
+19,5,yes,5,yes,7,yes,no,good,not sure
+15,10,no,6,yes,4,no,no,good,no
+20,8,sometimes,2,no,3,yes,yes,good,no
+29,8,sometimes,4,no,5,no,no,good,no
+22,5,no,10,no,7,yes,yes,good,not sure
+42,6,yes,6,yes,4,no,no,bad,not sure
+23,8,sometimes,2,no,3,yes,no,good,no
+49,8,yes,6,no,5,yes,no,good,no
+34,10,sometimes,6,yes,1,no,yes,good,no
+41,10,sometimes,6,no,1,yes,no,good,no
+31,5,sometimes,10,no,4,no,yes,good,yes
+17,9,no,2,yes,3,no,yes,good,no
+42,8,no,4,yes,5,no,yes,good,no
+55,7,yes,7,no,6,yes,yes,good,no
+33,7,no,9,no,8,no,no,good,yes
+22,8,no,6,yes,1,no,no,good,no
+21,6,no,9,no,3,no,yes,bad,no
+15,5,sometimes,9,no,6,no,yes,good,yes
+22,4,no,10,no,8,yes,yes,bad,yes
+18,5,no,7,no,8,yes,no,good,yes
+26,9,sometimes,4,yes,4,no,no,good,no
+30,4,no,7,no,10,no,yes,bad,yes
+16,4,no,11,yes,10,yes,no,bad,yes
+29,5,yes,5,yes,7,no,no,good,yes
+45,7,sometimes,10,no,6,yes,no,good,no
+42,7,yes,8,no,3,no,yes,bad,yes
+30,9,sometimes,5,yes,6,no,no,good,no
+34,10,sometimes,6,no,1,no,yes,good,no
+44,4,no,10,yes,9,yes,yes,bad,yes
+31,9,yes,6,yes,4,yes,yes,good,no
+16,10,no,3,no,3,yes,yes,good,no
+25,5,yes,7,yes,3,no,yes,good,no
+47,4,sometimes,8,yes,9,yes,no,bad,yes
+30,5,yes,5,no,6,yes,yes,good,yes
+27,7,no,9,yes,8,no,yes,bad,not sure
+17,6,sometimes,5,yes,4,yes,no,good,no
+18,5,sometimes,5,no,3,yes,no,bad,not sure
+34,6,sometimes,6,yes,3,yes,yes,good,no
+46,9,no,3,yes,3,yes,no,good,no
+53,6,sometimes,6,yes,3,yes,yes,bad,yes
+52,9,no,4,yes,1,no,yes,good,no
+41,4,no,7,no,8,no,no,bad,yes
+35,5,sometimes,6,yes,5,no,no,bad,no
+30,4,no,11,no,7,yes,no,bad,yes
+31,4,yes,8,no,7,no,yes,bad,yes
+52,8,yes,5,yes,1,yes,yes,good,no
+54,7,no,5,no,5,no,no,good,yes
+27,4,sometimes,11,no,9,yes,no,bad,yes
+17,8,sometimes,4,yes,2,yes,yes,good,no
+23,8,no,4,yes,5,no,no,good,no
+29,6,yes,6,yes,6,yes,yes,good,not sure
+51,10,sometimes,4,yes,3,yes,yes,good,no
+22,8,yes,6,no,4,no,yes,good,no
+31,6,no,10,yes,5,yes,no,bad,yes
+28,8,yes,2,no,4,no,no,good,no
+29,8,yes,2,yes,5,no,yes,good,no
+35,4,yes,9,no,7,yes,yes,bad,yes
+43,7,sometimes,9,no,6,yes,no,bad,no
+48,7,sometimes,10,no,8,yes,no,bad,no
+15,6,yes,6,yes,8,yes,yes,bad,no
+43,8,yes,2,yes,1,no,yes,good,no
+54,7,sometimes,7,no,5,no,no,good,yes
+46,4,no,8,no,10,yes,yes,bad,yes
+55,9,sometimes,2,yes,4,yes,yes,good,no
+27,5,no,6,yes,5,no,yes,good,no
+33,9,yes,3,yes,3,yes,no,good,no
+51,6,no,7,yes,4,no,yes,good,not sure
+44,4,no,8,no,9,yes,yes,bad,yes
+48,5,no,8,yes,6,yes,no,good,yes
+32,7,yes,6,yes,8,yes,yes,bad,yes
+40,9,sometimes,5,yes,5,yes,yes,good,no
+54,5,no,10,yes,4,yes,no,bad,not sure
+33,6,no,10,no,8,yes,no,good,no
+37,10,no,5,no,1,yes,no,good,no
+19,7,no,10,yes,3,no,yes,good,no
+41,10,no,6,yes,5,no,no,good,no
+37,10,yes,5,no,1,yes,no,good,no
+47,5,sometimes,8,no,4,no,no,bad,no
+16,5,sometimes,5,yes,3,no,yes,good,no
+43,7,sometimes,8,yes,8,no,yes,good,yes
+18,7,no,9,no,5,no,no,good,no
+46,9,no,3,no,6,no,yes,good,no
+31,4,sometimes,12,no,7,no,yes,bad,yes
+32,5,no,7,yes,7,yes,yes,good,no
+39,6,no,5,yes,3,yes,yes,good,yes
+37,9,yes,6,yes,6,no,yes,good,no
+22,4,no,7,no,10,no,no,bad,yes
+18,7,yes,8,yes,8,yes,no,bad,yes
+30,6,no,8,no,5,yes,yes,good,yes
+44,4,sometimes,10,no,10,yes,no,bad,yes
+55,8,sometimes,4,no,3,no,yes,good,no
+27,9,no,5,no,6,yes,yes,good,no
+20,6,yes,9,no,8,yes,no,good,no
+15,5,yes,8,yes,7,no,yes,good,yes
+39,10,yes,3,no,3,yes,no,good,no
+42,9,yes,6,yes,4,yes,yes,good,no
+16,10,yes,4,yes,2,yes,yes,good,no
+33,10,no,5,no,1,yes,yes,good,no
+47,7,yes,5,yes,4,yes,no,bad,yes
+47,5,no,7,yes,8,yes,yes,good,not sure
+39,6,no,6,yes,7,yes,no,bad,not sure
+44,5,yes,9,no,8,yes,no,bad,yes
+43,6,yes,8,yes,7,no,no,good,yes
+41,6,yes,10,yes,7,yes,no,bad,not sure
+22,10,sometimes,4,yes,6,yes,no,good,no
+41,9,yes,6,no,1,yes,no,good,no
+45,4,sometimes,12,yes,7,yes,yes,bad,yes
+52,4,sometimes,7,yes,9,no,no,bad,yes
+53,5,no,10,no,7,yes,yes,bad,not sure
+33,10,no,3,no,5,no,yes,good,no
+48,8,sometimes,3,no,5,no,no,good,no
+47,9,no,6,no,1,no,yes,good,no
+27,6,yes,6,no,8,yes,yes,bad,yes
+16,9,no,6,no,5,yes,yes,good,no
+30,4,yes,11,no,10,no,yes,bad,yes
+45,5,no,9,yes,7,no,yes,bad,yes
+51,5,sometimes,7,yes,6,no,yes,bad,no
+53,8,yes,4,yes,5,no,no,good,no
+35,4,sometimes,12,yes,9,yes,no,bad,yes
+50,9,yes,6,yes,6,no,yes,good,no
+41,7,no,5,yes,4,no,no,good,no
+39,7,no,6,yes,3,yes,no,bad,no
+50,8,sometimes,6,yes,3,yes,no,good,no
+42,9,no,2,yes,6,no,no,good,no
+15,6,no,9,yes,4,no,yes,good,no
+32,10,yes,2,yes,2,no,no,good,no
+45,5,no,10,yes,4,no,yes,bad,yes
+31,4,yes,11,yes,10,yes,no,bad,yes
+33,8,no,5,no,5,yes,yes,good,no
+41,5,sometimes,7,yes,6,no,no,good,no
+16,9,no,4,yes,5,no,yes,good,no
+16,10,yes,3,yes,1,yes,yes,good,no
+22,5,no,8,yes,8,no,no,good,yes
+47,10,no,2,yes,6,no,no,good,no
+40,6,yes,7,yes,6,yes,yes,good,not sure
+21,10,yes,2,yes,4,yes,yes,good,no
+43,5,no,10,yes,4,no,no,bad,no
+25,5,sometimes,5,yes,7,yes,yes,good,not sure
+32,5,sometimes,6,no,5,no,yes,good,not sure
+18,4,sometimes,12,yes,8,no,no,bad,yes
+41,4,no,10,yes,10,yes,yes,bad,yes
+39,5,yes,10,no,5,yes,yes,good,not sure
+37,7,yes,9,yes,6,no,yes,good,yes
+36,5,sometimes,7,yes,8,yes,yes,bad,yes
+40,8,sometimes,2,yes,3,no,no,good,no
+48,4,yes,8,yes,10,no,no,bad,yes
+47,7,no,9,yes,3,no,yes,bad,not sure
+43,8,yes,4,no,3,no,no,good,no
+38,5,sometimes,10,yes,6,no,yes,bad,yes
+15,5,sometimes,5,no,7,no,yes,bad,no
+42,6,sometimes,10,no,8,no,yes,bad,not sure
+48,5,sometimes,10,no,3,yes,yes,bad,yes
+43,5,sometimes,9,no,3,yes,yes,bad,no
+18,9,sometimes,6,no,3,yes,no,good,no
+48,6,yes,7,yes,6,no,no,bad,yes
+42,6,sometimes,8,no,3,yes,no,bad,not sure
+15,9,sometimes,6,no,3,yes,no,good,no
+50,4,yes,9,yes,10,no,no,bad,yes
+17,9,yes,2,no,5,no,yes,good,no
+40,6,yes,8,no,8,yes,yes,good,no
+54,7,yes,5,yes,6,no,no,good,no
+42,4,no,11,yes,7,yes,yes,bad,yes
+47,10,sometimes,5,no,5,yes,yes,good,no
+50,6,sometimes,6,no,6,yes,yes,bad,not sure
+25,7,sometimes,8,yes,4,yes,no,good,no
+30,4,sometimes,7,yes,9,no,yes,bad,yes
+49,6,yes,8,yes,7,no,no,good,yes
+36,6,yes,5,no,7,yes,no,bad,no
+45,6,yes,5,no,3,no,yes,bad,not sure
+27,4,sometimes,12,no,10,no,yes,bad,yes
+22,8,no,4,yes,3,no,no,good,no
+38,6,sometimes,5,yes,4,no,yes,good,not sure
+19,8,yes,6,no,6,no,yes,good,no
+20,7,no,5,no,4,no,yes,bad,yes
+39,9,yes,3,no,3,yes,no,good,no
+42,8,no,6,no,6,yes,yes,good,no
+48,4,yes,10,yes,7,no,yes,bad,yes
+19,9,yes,4,no,3,no,yes,good,no
+28,7,sometimes,10,yes,4,yes,yes,good,yes
+55,9,no,6,no,4,no,yes,good,no
+46,7,sometimes,8,no,5,yes,no,good,not sure
+44,7,yes,7,no,6,no,yes,good,not sure
+46,5,yes,9,no,7,yes,no,good,not sure
+30,5,sometimes,5,yes,5,yes,yes,good,no
+53,7,yes,7,no,3,yes,no,bad,no
+24,7,no,6,no,7,yes,yes,good,yes
+18,5,sometimes,10,yes,6,yes,yes,good,no
+46,9,no,2,yes,4,no,yes,good,no
+43,5,no,5,yes,6,yes,yes,good,no
+18,6,no,9,yes,5,yes,yes,bad,not sure
+30,6,yes,8,no,4,yes,no,good,not sure
+51,6,yes,6,yes,8,no,yes,bad,no
+43,6,yes,8,yes,6,yes,yes,good,yes
+23,8,no,4,yes,3,yes,no,good,no
+24,5,no,5,no,5,yes,no,bad,yes
+47,5,yes,7,no,4,no,no,bad,no
+19,9,sometimes,5,yes,1,no,yes,good,no
+26,8,yes,4,no,6,yes,yes,good,no
+54,4,no,8,yes,10,yes,no,bad,yes
+52,10,sometimes,2,yes,4,no,yes,good,no
+33,4,sometimes,9,no,10,yes,yes,bad,yes
+29,10,sometimes,3,yes,3,yes,no,good,no
+55,7,sometimes,6,yes,4,no,no,good,not sure
+44,10,no,5,yes,2,yes,yes,good,no
+37,10,no,3,yes,6,no,yes,good,no
+40,7,sometimes,8,no,7,no,yes,good,yes
+50,7,no,10,yes,3,no,no,good,no
+19,8,yes,2,no,1,yes,yes,good,no
+34,8,yes,6,no,5,no,yes,good,no
+42,7,yes,7,yes,6,yes,yes,good,yes
+45,10,no,6,yes,4,no,yes,good,no
+21,8,no,5,yes,5,no,yes,good,no
+51,6,no,6,yes,8,yes,yes,bad,yes
+51,8,yes,4,no,2,no,no,good,no
+39,8,no,5,yes,1,yes,yes,good,no
+47,7,yes,8,no,5,yes,no,good,yes
+15,10,sometimes,6,yes,5,no,no,good,no
+21,6,yes,10,yes,6,yes,no,bad,no
+40,8,yes,6,no,4,yes,no,good,no
+39,8,sometimes,4,no,6,yes,yes,good,no
+21,10,no,3,yes,1,yes,no,good,no
+21,5,yes,8,yes,6,yes,no,good,yes
+21,7,no,5,no,3,yes,no,bad,no
+26,4,no,7,yes,7,yes,yes,bad,yes
+37,6,no,10,yes,3,yes,yes,good,yes
+51,10,sometimes,5,no,6,no,yes,good,no
+37,4,sometimes,11,yes,9,yes,yes,bad,yes
+44,4,no,9,yes,8,yes,yes,bad,yes
+45,5,sometimes,5,yes,7,no,yes,good,yes
+32,7,sometimes,5,no,8,no,no,bad,not sure
+50,10,yes,4,yes,2,yes,yes,good,no
+43,9,no,3,yes,1,no,no,good,no
+53,4,yes,9,yes,7,yes,yes,bad,yes
+30,6,sometimes,8,no,6,no,yes,good,no
+25,8,no,4,no,1,no,yes,good,no
+41,7,no,9,yes,5,yes,no,bad,not sure
+53,7,sometimes,5,yes,8,no,yes,good,no
+49,4,yes,11,no,9,no,no,bad,yes
+28,4,yes,8,no,10,yes,no,bad,yes
+28,7,no,5,no,7,no,yes,bad,no
+29,10,sometimes,2,no,4,yes,no,good,no
+42,6,yes,10,yes,4,yes,yes,good,yes
+36,8,no,3,yes,1,yes,no,good,no
+40,10,sometimes,3,no,4,yes,no,good,no
+49,8,sometimes,2,yes,1,no,yes,good,no
+38,10,sometimes,3,no,5,no,yes,good,no
+34,10,no,2,no,4,yes,yes,good,no
+52,8,yes,5,yes,5,no,no,good,no
+22,5,yes,7,yes,8,no,yes,bad,yes
+17,8,sometimes,3,yes,1,yes,yes,good,no
+18,5,no,8,no,5,no,no,good,no
+15,7,sometimes,10,no,6,yes,no,bad,yes
+26,4,yes,11,yes,10,yes,no,bad,yes
+55,4,yes,8,yes,7,no,no,bad,yes
+51,8,yes,6,yes,3,yes,yes,good,no
+31,10,no,3,no,6,no,no,good,no
+31,4,sometimes,11,no,8,no,no,bad,yes
+26,6,sometimes,8,yes,7,yes,yes,good,no
+36,10,no,5,yes,6,no,yes,good,no
+17,5,no,7,yes,7,no,no,good,not sure
+34,5,no,10,yes,6,yes,yes,good,not sure
+22,4,no,10,no,9,no,yes,bad,yes
+34,4,sometimes,12,yes,9,yes,no,bad,yes
+16,5,no,5,no,8,no,no,bad,no
+43,10,yes,4,yes,2,yes,yes,good,no
+19,9,yes,6,yes,3,no,yes,good,no
+45,10,no,6,yes,1,yes,no,good,no
+22,9,yes,3,yes,6,yes,yes,good,no
+18,6,sometimes,7,yes,6,yes,no,bad,no
+28,8,sometimes,5,yes,4,yes,no,good,no
+21,8,yes,5,no,6,yes,no,good,no
+47,8,yes,2,no,3,yes,yes,good,no
+33,7,yes,9,no,7,no,no,good,yes
+24,5,sometimes,5,no,5,no,yes,good,yes
+55,6,sometimes,7,yes,5,no,yes,bad,no
+24,6,no,5,yes,3,yes,yes,good,no
+25,8,sometimes,3,no,5,yes,yes,good,no
+39,8,no,6,yes,1,no,yes,good,no
+48,7,sometimes,8,yes,6,yes,yes,bad,not sure
+35,5,sometimes,8,yes,3,no,no,good,no
+43,4,sometimes,11,no,9,no,yes,bad,yes
+45,6,yes,10,no,5,yes,yes,good,not sure
+23,7,no,5,no,3,yes,no,bad,no
+16,5,sometimes,10,no,5,no,no,good,not sure
+49,9,no,3,yes,2,yes,yes,good,no
+32,4,sometimes,8,no,9,yes,yes,bad,yes
+48,9,yes,3,no,5,yes,yes,good,no
+19,7,sometimes,7,yes,3,no,no,bad,not sure
+41,10,sometimes,2,no,5,yes,yes,good,no
+47,8,yes,3,no,2,no,no,good,no
+27,7,yes,6,no,3,no,no,good,no
+30,9,sometimes,2,no,3,yes,no,good,no
+34,4,yes,11,yes,7,yes,no,bad,yes
+15,5,no,9,yes,5,no,yes,good,not sure
+36,5,no,8,no,5,no,yes,good,not sure
+18,10,yes,2,no,5,yes,no,good,no
+21,9,yes,3,no,5,yes,no,good,no
+17,10,no,2,yes,1,yes,yes,good,no
+43,6,no,8,no,3,yes,yes,bad,yes
+20,8,no,4,no,5,yes,no,good,no
+42,4,yes,11,no,8,yes,no,bad,yes
+43,8,yes,2,no,4,no,no,good,no
+46,10,no,3,no,3,no,no,good,no
+34,6,no,10,no,5,yes,yes,bad,no
+42,9,sometimes,3,no,3,yes,no,good,no
+27,9,sometimes,4,no,5,yes,yes,good,no
+24,8,sometimes,2,yes,4,no,yes,good,no
+45,5,no,8,yes,5,yes,yes,bad,yes
+43,6,sometimes,6,yes,6,yes,no,good,no
+49,10,yes,6,no,5,no,yes,good,no
+47,9,yes,2,yes,6,no,yes,good,no
+32,10,no,2,yes,3,no,no,good,no
+49,6,sometimes,6,yes,6,no,no,bad,not sure
+42,6,yes,8,no,5,yes,no,good,yes
+30,6,yes,9,no,8,yes,no,good,no
+15,6,no,8,yes,3,yes,yes,good,not sure
+47,5,sometimes,7,yes,8,yes,yes,good,no
+15,8,yes,6,yes,3,yes,no,good,no
+24,6,yes,8,no,6,no,yes,good,yes
+20,5,sometimes,8,yes,6,yes,no,good,no
+40,5,yes,10,yes,7,yes,yes,bad,yes
+35,6,no,6,yes,8,yes,no,good,yes
+25,8,yes,2,yes,5,no,no,good,no
+26,5,no,10,no,4,no,yes,good,not sure
+18,6,no,6,yes,4,yes,yes,good,no
+24,7,yes,8,no,4,no,no,good,no
+35,10,yes,4,no,5,yes,yes,good,no
+17,4,yes,8,yes,7,yes,yes,bad,yes
+48,9,no,3,no,1,no,no,good,no
+23,9,yes,4,yes,4,no,yes,good,no
+39,7,yes,10,yes,5,no,yes,bad,no
+33,7,no,9,yes,7,no,yes,good,no
+33,4,no,8,yes,10,no,no,bad,yes
+51,5,no,5,no,4,no,no,good,yes
+18,4,yes,10,no,7,yes,yes,bad,yes
+34,4,sometimes,12,no,9,no,no,bad,yes
+44,9,no,6,no,1,yes,no,good,no
+32,4,no,9,no,10,yes,yes,bad,yes
+41,5,sometimes,8,yes,4,no,yes,bad,not sure
+50,5,sometimes,7,no,8,no,yes,bad,yes
+54,5,no,5,yes,8,no,no,bad,yes
+31,7,sometimes,5,no,8,no,yes,bad,not sure
+21,6,sometimes,6,yes,3,yes,no,bad,no
+33,9,no,4,no,5,no,yes,good,no
+55,6,no,10,no,4,yes,no,good,no
+29,10,yes,2,no,4,yes,no,good,no
+16,5,sometimes,8,yes,4,no,no,bad,yes
+54,4,sometimes,12,no,9,yes,no,bad,yes
+54,8,sometimes,2,yes,2,no,no,good,no
+41,6,sometimes,7,no,5,yes,yes,good,no
+21,10,no,6,yes,2,no,no,good,no
+31,7,no,8,no,7,yes,no,bad,not sure
+35,6,no,8,no,6,no,yes,good,no
+26,5,yes,8,yes,8,no,yes,bad,yes
+18,7,no,6,no,7,yes,yes,good,yes
+23,8,no,3,no,2,yes,no,good,no
+18,5,no,6,yes,6,yes,no,bad,not sure
+40,10,yes,2,yes,2,yes,yes,good,no
+24,10,sometimes,6,no,6,yes,yes,good,no
+39,6,sometimes,8,no,4,yes,yes,bad,yes
+36,5,no,10,yes,3,no,no,good,not sure
+35,5,sometimes,6,no,4,no,no,bad,yes
+34,4,no,10,no,8,yes,yes,bad,yes
+41,10,yes,4,no,3,yes,no,good,no
+46,8,no,3,yes,1,no,yes,good,no
+53,10,yes,6,no,2,no,no,good,no
+38,7,yes,10,yes,6,yes,yes,good,yes
+55,8,sometimes,5,yes,2,no,yes,good,no
+32,6,yes,7,yes,3,no,yes,good,yes
+36,10,yes,4,yes,1,no,yes,good,no
+54,8,no,6,yes,6,no,no,good,no
+46,6,no,8,yes,8,yes,no,good,no
+26,7,yes,9,yes,3,yes,yes,good,yes
+35,8,no,4,no,4,no,yes,good,no
+52,4,yes,7,no,8,yes,no,bad,yes
+52,6,yes,7,yes,3,no,no,good,not sure
+30,9,yes,3,no,1,yes,yes,good,no
+40,9,yes,5,yes,4,no,no,good,no
+41,7,yes,10,yes,5,yes,no,good,not sure
+15,9,no,5,no,4,yes,no,good,no
+45,9,sometimes,4,no,3,no,no,good,no
+41,9,sometimes,4,yes,4,yes,no,good,no
+24,5,no,8,yes,7,yes,yes,bad,yes
+22,9,sometimes,3,yes,2,no,no,good,no
+27,4,no,7,no,9,yes,yes,bad,yes
+35,10,no,5,yes,2,no,yes,good,no
+48,6,no,8,no,4,yes,yes,bad,not sure
+36,5,yes,10,yes,4,yes,yes,good,no
+35,7,no,9,yes,7,yes,no,bad,yes
+47,9,no,2,no,4,yes,yes,good,no
+37,7,sometimes,7,no,3,no,no,bad,not sure
+17,9,no,5,yes,1,no,yes,good,no
+19,9,no,3,yes,3,no,yes,good,no
+16,6,no,10,no,8,yes,yes,bad,no
+15,9,sometimes,5,yes,1,no,no,good,no
+21,5,yes,9,yes,5,yes,yes,good,not sure
+31,4,no,12,yes,7,yes,no,bad,yes
+38,6,sometimes,5,no,7,yes,no,bad,no
+51,7,no,8,no,8,no,yes,bad,yes
+29,6,yes,6,yes,5,yes,no,bad,not sure
+25,10,sometimes,2,yes,4,yes,no,good,no
+21,7,yes,6,yes,4,yes,no,bad,not sure
+50,7,no,7,no,5,yes,yes,good,no
+52,5,sometimes,10,no,6,yes,no,bad,yes
+53,10,sometimes,4,no,5,yes,no,good,no
+40,10,no,3,yes,6,yes,no,good,no
+30,10,yes,5,yes,1,yes,no,good,no
+51,4,sometimes,12,no,10,no,no,bad,yes
+33,7,no,6,yes,5,no,yes,good,no
+35,10,sometimes,2,yes,2,yes,yes,good,no
+45,4,yes,7,no,8,yes,no,bad,yes
+15,5,yes,10,no,4,yes,no,bad,yes
+20,10,yes,4,yes,5,yes,yes,good,no
+15,8,sometimes,4,no,4,no,no,good,no
+16,6,sometimes,8,no,8,yes,no,bad,yes
+48,4,yes,12,no,7,yes,no,bad,yes
+53,9,sometimes,2,no,5,no,no,good,no
+32,7,yes,5,yes,4,no,yes,good,yes
+31,6,sometimes,8,no,8,yes,yes,good,not sure
+41,9,yes,3,no,1,no,no,good,no
+53,8,no,2,no,4,yes,yes,good,no
+24,7,yes,6,yes,8,no,yes,bad,yes
+35,8,no,5,no,6,yes,yes,good,no
+43,10,sometimes,6,no,5,yes,yes,good,no
+54,5,sometimes,8,yes,6,yes,yes,bad,not sure
+40,5,no,5,no,7,no,yes,bad,yes
+45,6,sometimes,5,yes,6,no,yes,bad,not sure
+21,6,sometimes,9,yes,7,yes,no,bad,no
+25,4,sometimes,7,yes,9,no,yes,bad,yes
+22,4,no,10,yes,7,yes,yes,bad,yes
+35,5,no,5,yes,7,no,no,good,yes
+28,7,no,8,no,4,yes,no,good,no
+55,4,no,9,yes,9,yes,yes,bad,yes
+41,8,sometimes,2,no,4,no,no,good,no
+31,7,sometimes,8,no,8,yes,yes,good,not sure
+55,6,no,5,yes,5,no,yes,good,yes
+55,5,sometimes,5,yes,6,no,yes,good,not sure
+43,10,sometimes,2,no,6,yes,yes,good,no
+42,10,no,5,no,3,yes,no,good,no
+16,8,yes,5,no,3,no,no,good,no
+22,10,yes,3,yes,2,no,yes,good,no
+20,5,yes,9,no,7,no,yes,bad,no
+22,10,no,2,no,6,no,no,good,no
+46,7,no,9,yes,8,no,no,bad,not sure
+18,6,no,10,no,6,no,yes,bad,yes
+55,8,yes,4,yes,1,no,yes,good,no
+33,10,no,4,yes,6,no,no,good,no
+29,7,sometimes,5,yes,7,yes,yes,bad,not sure
+34,6,sometimes,7,no,8,yes,no,bad,no
+28,6,sometimes,5,no,8,yes,yes,bad,no
+38,4,no,7,yes,8,no,no,bad,yes
+32,10,sometimes,5,no,2,yes,yes,good,no
+37,10,sometimes,4,yes,1,no,no,good,no
+55,7,sometimes,5,yes,5,yes,yes,bad,not sure
+38,6,no,9,yes,7,no,no,good,no
+31,10,yes,6,no,6,yes,yes,good,no
+49,7,yes,10,yes,4,no,no,bad,yes
+42,5,sometimes,7,no,7,no,no,bad,no
+23,6,yes,10,no,4,yes,no,good,not sure
+22,9,sometimes,2,yes,2,no,yes,good,no
+25,5,sometimes,8,no,5,yes,yes,bad,not sure
+44,4,sometimes,11,no,10,yes,no,bad,yes
+54,7,sometimes,9,yes,4,yes,yes,good,not sure
+35,9,sometimes,2,no,1,no,no,good,no
+26,9,sometimes,4,yes,6,no,yes,good,no
+53,7,yes,9,yes,4,no,no,bad,no
+33,4,yes,12,yes,7,yes,yes,bad,yes
+44,10,sometimes,2,yes,1,no,no,good,no
+33,10,sometimes,2,no,3,no,no,good,no
+31,6,no,9,yes,3,no,yes,bad,yes
+44,10,yes,5,no,6,no,no,good,no
+19,9,no,3,no,1,yes,no,good,no
+39,6,yes,6,no,5,no,no,good,no
+33,10,no,2,yes,6,yes,no,good,no
+42,8,no,2,yes,6,yes,no,good,no
+16,6,sometimes,8,yes,3,yes,no,bad,yes
+24,5,no,10,yes,8,no,yes,good,not sure
+38,9,yes,6,no,1,yes,no,good,no
+33,10,yes,3,yes,5,yes,no,good,no
+50,4,yes,7,no,8,no,no,bad,yes
+53,9,sometimes,2,yes,1,no,no,good,no
+43,7,no,7,yes,5,no,yes,bad,no
+33,8,no,4,no,1,no,no,good,no
+44,5,sometimes,10,yes,4,yes,yes,good,not sure
+39,10,yes,3,yes,3,no,no,good,no
+53,9,no,2,yes,4,yes,no,good,no
+53,4,no,9,no,7,yes,yes,bad,yes
+37,9,no,2,yes,4,no,yes,good,no
+55,10,sometimes,4,no,4,no,yes,good,no
+49,8,sometimes,6,yes,1,no,yes,good,no
+43,6,no,7,no,3,no,no,bad,no
+40,5,no,9,no,4,no,no,bad,yes
+16,8,sometimes,2,yes,6,yes,yes,good,no
+36,10,sometimes,5,yes,3,yes,yes,good,no
+38,7,sometimes,10,yes,4,yes,yes,bad,yes
+45,9,yes,2,no,5,no,no,good,no
+43,5,yes,8,yes,3,no,yes,good,no
+41,5,yes,8,no,3,no,no,good,no
+29,4,no,11,no,10,no,no,bad,yes
+17,8,yes,3,no,4,no,no,good,no
+25,9,no,5,yes,6,no,no,good,no
+51,4,yes,10,yes,10,yes,no,bad,yes
+28,6,yes,10,no,7,yes,yes,good,yes
+44,8,no,6,no,5,no,no,good,no
+26,7,no,7,yes,8,no,no,good,no
+39,6,no,8,yes,6,yes,no,bad,not sure
+31,6,sometimes,6,no,8,yes,yes,bad,not sure
+50,7,yes,10,no,7,no,yes,good,yes
+48,7,sometimes,10,no,7,yes,no,bad,not sure
+23,7,yes,9,no,6,yes,no,bad,yes
+34,7,no,9,yes,3,yes,yes,bad,yes
+20,5,sometimes,10,yes,3,yes,no,good,no
+22,8,yes,5,no,4,yes,no,good,no
+51,7,yes,5,no,6,no,no,good,no
+21,6,yes,6,yes,7,yes,no,good,yes
+15,6,sometimes,9,no,3,yes,no,good,no
+16,10,sometimes,4,yes,1,yes,yes,good,no
+21,5,yes,8,yes,3,no,no,bad,not sure
+42,10,yes,5,yes,1,no,no,good,no
+16,10,no,6,no,3,yes,no,good,no
+33,5,sometimes,6,yes,6,yes,no,bad,no
+30,8,no,5,yes,2,yes,no,good,no
+31,8,sometimes,3,yes,1,yes,no,good,no
+17,9,sometimes,4,yes,5,no,no,good,no
